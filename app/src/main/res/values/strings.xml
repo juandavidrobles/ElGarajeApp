@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ElGarajeApp</string>
+    <string name="Mi_Perfil">Mi Perfil</string>
+    <string name="principal">Principal</string>
+    <string name="User">Usuario</string>
+    <string name="Password">Contraseña</string>
+    <string name="PasswordAgain">Repetir contraseña</string>
+    <string name="email">Correo electronico</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
